@@ -1,4 +1,5 @@
 # Price Sense AI
+**Live demo:** https://price-sense-ai-xlv53egdr3mquoteo5rslz.streamlit.app/
 
 A prototype tool that answers one question for retailers: **"Should I run this promotion?"**
 
