@@ -1,5 +1,7 @@
 # Price Sense AI - Write-Up
 
+**Prototype**: https://price-sense-ai-xlv53egdr3mquoteo5rslz.streamlit.app/ | **Code**: https://github.com/vaishnavichalla-code/Price-Sense-AI
+
 Price Sense AI helps mid-market retailers answer one question before they discount:
 **"Should I run this promotion?"** The user describes a proposed promotion (product,
 discount, timing) and gets a clear recommendation - Run it / Consider it / Don't run it -
