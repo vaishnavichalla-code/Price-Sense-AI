@@ -1,7 +1,5 @@
 # Price Sense AI - Write-Up
 
-**Prototype:** [live link here after deployment] | **Code:** [GitHub repo link here]
-
 Price Sense AI helps mid-market retailers answer one question before they discount:
 **"Should I run this promotion?"** The user describes a proposed promotion (product,
 discount, timing) and gets a clear recommendation - Run it / Consider it / Don't run it -
